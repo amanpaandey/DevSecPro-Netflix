@@ -1,3 +1,8 @@
+<img width="1920" height="1020" alt="Screenshot 2026-02-11 110219" src="https://github.com/user-attachments/assets/2d90e953-bc13-4177-8479-2a7ef3c717f7" />
+<img width="1408" height="736" alt="Gemini_Generated_Image_vxbml3vxbml3vxbm" src="https://github.com/user-attachments/assets/4cb518d1-0bb3-45eb-aaf9-98089822bc0b" />
+<img width="1408" height="736" alt="Gemini_Generated_Image_8ws99k8ws99k8ws9" src="https://github.com/user-attachments/assets/4bd21486-67b7-4616-ac05-9d3c735b1aee" />
+<img width="1408" height="736" alt="Gemini_Generated_Image_3y1dwz3y1dwz3y1d" src="https://github.com/user-attachments/assets/e9952eb0-23cf-4084-a048-fe01c77b5429" />
+<img width="1920" height="1020" alt="Screenshot 2026-02-11 105943" src="https://github.com/user-attachments/assets/3a2882e0-e688-4f36-a5aa-1f97af2c7e71" />
 **Step 1: Launch EC2 (Ubuntu 22.04):**
 
 - Provision an EC2 instance on AWS with Ubuntu 22.04.
